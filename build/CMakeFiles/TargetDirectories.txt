@@ -1,0 +1,3 @@
+C:/Users/Acer/Documents/VSCode/Project-1---CLI-To-Do-List/todo-cpp/build/CMakeFiles/todo.dir
+C:/Users/Acer/Documents/VSCode/Project-1---CLI-To-Do-List/todo-cpp/build/CMakeFiles/edit_cache.dir
+C:/Users/Acer/Documents/VSCode/Project-1---CLI-To-Do-List/todo-cpp/build/CMakeFiles/rebuild_cache.dir
